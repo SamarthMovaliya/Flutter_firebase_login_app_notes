@@ -1,16 +1,10 @@
 # firebase_login_pages
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230403_224836](https://user-images.githubusercontent.com/121867874/229586496-1d601b22-9e7b-4194-bad6-487261e9feed.png)
+![Screenshot_20230403_224656](https://user-images.githubusercontent.com/121867874/229586503-15fae18d-d84e-4c6e-b441-010630f4f961.png)
+![Screenshot_20230403_224845](https://user-images.githubusercontent.com/121867874/229586515-331ecb9f-ef36-4c15-943f-425825333b4a.png)
+![Screenshot_20230403_224910](https://user-images.githubusercontent.com/121867874/229586543-08cef71a-ff5e-4f93-b07e-70e76ca83780.png)
+![Screenshot_20230403_224914](https://user-images.githubusercontent.com/121867874/229586559-9f65a421-f8d9-4add-8880-5e5f9489ec93.png)
+![Screenshot_20230403_224910](https://user-images.githubusercontent.com/121867874/229586583-a502ef2c-cc31-4e7d-908f-4dbaaad95c7e.png)
+![Screenshot_20230403_225200](https://user-images.githubusercontent.com/121867874/229586600-1b9932dd-6ebb-4629-8e4e-57d75c72c4f3.png)
+![Screenshot_20230403_225213](https://user-images.githubusercontent.com/121867874/229586612-9c57ce62-5a02-4e23-b1ab-12bc9b61e733.png)
+![Screenshot_20230403_225215](https://user-images.githubusercontent.com/121867874/229586622-960f227a-9d07-4794-8104-c0bae757d614.png)
