@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1005001113318",
+    "project_id": "fir-project-login-82410",
+    "storage_bucket": "fir-project-login-82410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005001113318:android:3fea9c4cf290e97fe74527",
+        "android_client_info": {
+          "package_name": "com.myApp.firebase_login_pages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005001113318-o1sfaa6tsismslra1f47c1vh5djvj764.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myApp.firebase_login_pages",
+            "certificate_hash": "db6e10ef707a680ee822b2074fd77cab9591a3c6"
+          }
+        },
+        {
+          "client_id": "1005001113318-m1fo19cev5u5qi9vrle5lcd7lok82mui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1OSolEK8TflwhRPVAF5sU3vsa1EO4Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005001113318-m1fo19cev5u5qi9vrle5lcd7lok82mui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005001113318:android:8c0dd2321dae26dbe74527",
+        "android_client_info": {
+          "package_name": "com.samarth.flutter_firebase_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005001113318-m1fo19cev5u5qi9vrle5lcd7lok82mui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1OSolEK8TflwhRPVAF5sU3vsa1EO4Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005001113318-m1fo19cev5u5qi9vrle5lcd7lok82mui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
